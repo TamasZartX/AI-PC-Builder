@@ -2,3 +2,6 @@ venv/
 .git/
 __pycache__/
 .env
+.vscode
+pc-part-dataset/
+PcPartPicker/
